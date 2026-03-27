@@ -6,7 +6,7 @@ const projects = [
     name: 'RepasioAI',
     desc: 'Plataforma de estudio con flashcards generadas por inteligencia artificial. Permite crear mazos de tarjetas, estudiar con repetición espaciada y generar preguntas automáticamente usando IA.',
     url: 'https://repasioai.vercel.app/',
-    tags: ['React', 'API IA', 'Node.js', 'Tailwind'],
+    tags: ['React', 'API IA', 'Nest', 'Tailwind'],
     status: 'Live',
     accent: '#C8602A',
   },
