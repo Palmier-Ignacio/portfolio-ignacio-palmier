@@ -3,9 +3,9 @@ import './Projects.css'
 
 const projects = [
   {
-    name: 'FlashCards AI',
+    name: 'RepasioAI',
     desc: 'Plataforma de estudio con flashcards generadas por inteligencia artificial. Permite crear mazos de tarjetas, estudiar con repetición espaciada y generar preguntas automáticamente usando IA.',
-    url: 'https://flashcardsai-eight.vercel.app/',
+    url: 'https://repasioai.vercel.app/',
     tags: ['React', 'API IA', 'Node.js', 'Tailwind'],
     status: 'Live',
     accent: '#C8602A',
